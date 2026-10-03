@@ -1,0 +1,46 @@
+{
+    "items":  [
+                  {
+                      "id":  "bot-starten",
+                      "name":  "TLG Search starten",
+                      "type":  "video",
+                      "ids":  {
+                                  "tg":  "bot-starten"
+                              },
+                      "tags":  [
+                                   "telegram",
+                                   "tlg-search",
+                                   "dateisuche"
+                               ],
+                      "description":  "Öffnet den Direktchat mit @tlg_searchbot in Telegram. Tipp dort einen Suchbegriff ein, wähle einen Treffer und fordere die Datei an.",
+                      "sources":  [
+                                      {
+                                          "url":  "https://t.me/tlg_searchbot?start=_tgr_-3d8H2U4Nzky",
+                                          "kind":  "website",
+                                          "name":  "TLG Search in Telegram öffnen"
+                                      }
+                                  ]
+                  },
+                  {
+                      "id":  "inline-suche",
+                      "name":  "Inline-Suche",
+                      "type":  "video",
+                      "ids":  {
+                                  "tg":  "inline-suche"
+                              },
+                      "tags":  [
+                                   "telegram",
+                                   "tlg-search",
+                                   "inline"
+                               ],
+                      "description":  "TLG Search funktioniert auch inline: Schreibe in einem beliebigen Telegram-Chat @tlg_searchbot gefolgt vom Suchbegriff, zum Beispiel @tlg_searchbot Dune. Diese Kachel öffnet den Bot, falls du ihn noch nicht im Chat hattest.",
+                      "sources":  [
+                                      {
+                                          "url":  "https://t.me/tlg_searchbot?start=_tgr_-3d8H2U4Nzky",
+                                          "kind":  "website",
+                                          "name":  "Bot für die Inline-Suche öffnen"
+                                      }
+                                  ]
+                  }
+              ]
+}

@@ -1,0 +1,113 @@
+{
+    "items":  [
+                  {
+                      "id":  "filme",
+                      "name":  "Filme",
+                      "type":  "video",
+                      "ids":  {
+                                  "tg":  "filme"
+                              },
+                      "tags":  [
+                                   "telegram",
+                                   "tlg-search",
+                                   "filme",
+                                   "movies"
+                               ],
+                      "description":  "Filme im Bot suchen. Kachel antippen, TLG Search in Telegram öffnen und dort nach dem Titel suchen.",
+                      "sources":  [
+                                      {
+                                          "url":  "https://t.me/tlg_searchbot?start=_tgr_-3d8H2U4Nzky",
+                                          "kind":  "website",
+                                          "name":  "In TLG Search nach Filmen suchen"
+                                      }
+                                  ]
+                  },
+                  {
+                      "id":  "serien",
+                      "name":  "Serien",
+                      "type":  "video",
+                      "ids":  {
+                                  "tg":  "serien"
+                              },
+                      "tags":  [
+                                   "telegram",
+                                   "tlg-search",
+                                   "serien",
+                                   "tv"
+                               ],
+                      "description":  "Serien und Staffeln im Bot suchen. Kachel antippen, TLG Search in Telegram öffnen und dort nach dem Titel suchen.",
+                      "sources":  [
+                                      {
+                                          "url":  "https://t.me/tlg_searchbot?start=_tgr_-3d8H2U4Nzky",
+                                          "kind":  "website",
+                                          "name":  "In TLG Search nach Serien suchen"
+                                      }
+                                  ]
+                  },
+                  {
+                      "id":  "musik",
+                      "name":  "Musik",
+                      "type":  "video",
+                      "ids":  {
+                                  "tg":  "musik"
+                              },
+                      "tags":  [
+                                   "telegram",
+                                   "tlg-search",
+                                   "musik",
+                                   "audio"
+                               ],
+                      "description":  "Musik und Audio im Bot suchen. Kachel antippen, TLG Search in Telegram öffnen und dort nach Interpret oder Titel suchen.",
+                      "sources":  [
+                                      {
+                                          "url":  "https://t.me/tlg_searchbot?start=_tgr_-3d8H2U4Nzky",
+                                          "kind":  "website",
+                                          "name":  "In TLG Search nach Musik suchen"
+                                      }
+                                  ]
+                  },
+                  {
+                      "id":  "software",
+                      "name":  "Software",
+                      "type":  "video",
+                      "ids":  {
+                                  "tg":  "software"
+                              },
+                      "tags":  [
+                                   "telegram",
+                                   "tlg-search",
+                                   "software"
+                               ],
+                      "description":  "Software und Programme im Bot suchen. Kachel antippen, TLG Search in Telegram öffnen und dort nach dem Programm suchen.",
+                      "sources":  [
+                                      {
+                                          "url":  "https://t.me/tlg_searchbot?start=_tgr_-3d8H2U4Nzky",
+                                          "kind":  "website",
+                                          "name":  "In TLG Search nach Software suchen"
+                                      }
+                                  ]
+                  },
+                  {
+                      "id":  "ebooks",
+                      "name":  "E-Books",
+                      "type":  "video",
+                      "ids":  {
+                                  "tg":  "ebooks"
+                              },
+                      "tags":  [
+                                   "telegram",
+                                   "tlg-search",
+                                   "ebooks",
+                                   "books"
+                               ],
+                      "description":  "E-Books und Hörbücher im Bot suchen. Kachel antippen, TLG Search in Telegram öffnen und dort nach Titel oder Autor suchen.",
+                      "sources":  [
+                                      {
+                                          "url":  "https://t.me/tlg_searchbot?start=_tgr_-3d8H2U4Nzky",
+                                          "kind":  "website",
+                                          "name":  "In TLG Search nach E-Books suchen"
+                                      }
+                                  ]
+                  }
+              ]
+}

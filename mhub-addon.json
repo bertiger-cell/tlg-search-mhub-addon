@@ -1,0 +1,59 @@
+{
+    "id":  "tg-searchbot",
+    "name":  "TLG Search (Telegram)",
+    "specVersion":  2,
+    "version":  "1.0.0",
+    "description":  "Öffnet den Telegram-Dateisuch-Bot TLG Search (@tlg_searchbot) aus mHub heraus: Themen-Kacheln für Filme, Serien, Musik, Software und E-Books. Der Start-Code ist konfigurierbar (config.fields). Gesucht und angefordert wird im Bot, mHub ist die Fernbedienung.",
+    "resources":  [
+                      "catalog"
+                  ],
+    "types":  [
+                  "video"
+              ],
+    "catalogs":  [
+                     {
+                         "id":  "search-themes",
+                         "name":  "Suche nach Thema",
+                         "type":  "video",
+                         "options":  {
+                                         "shape":  "square",
+                                         "displayName":  true
+                                     }
+                     },
+                     {
+                         "id":  "bot",
+                         "name":  "TLG Search Bot",
+                         "type":  "video",
+                         "options":  {
+                                         "shape":  "square",
+                                         "displayName":  true
+                                     }
+                     }
+                 ],
+    "triggers":  [
+                     {
+                         "domain":  "t.me",
+                         "pattern":  "https://t.me/tlg_searchbot*"
+                     }
+                 ],
+    "languages":  [
+                      "de",
+                      "en"
+                  ],
+    "adult":  false,
+    "identity":  "none",
+    "dashboard":  [
+                      {
+                          "name":  "Suche nach Thema",
+                          "catalog":  "search-themes"
+                      },
+                      {
+                          "name":  "Bot Ã¶ffnen",
+                          "catalog":  "bot"
+                      }
+                  ],
+    "cache":  {
+                  "catalog":  86400,
+                  "item":  86400
+              }
+}
