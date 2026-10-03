@@ -21,7 +21,7 @@
                                       }
                                   ],
                       "images":  {
-                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/telegram.svg"
+                                     "poster":  "icons/telegram.svg"
                                  }
                   },
                   {
@@ -45,7 +45,7 @@
                                       }
                                   ],
                       "images":  {
-                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/search.svg"
+                                     "poster":  "icons/search.svg"
                                  }
                   }
               ]

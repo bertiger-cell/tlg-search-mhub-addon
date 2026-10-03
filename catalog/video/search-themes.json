@@ -22,7 +22,7 @@
                                       }
                                   ],
                       "images":  {
-                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/film.svg"
+                                     "poster":  "icons/film.svg"
                                  }
                   },
                   {
@@ -47,7 +47,7 @@
                                       }
                                   ],
                       "images":  {
-                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/tv.svg"
+                                     "poster":  "icons/tv.svg"
                                  }
                   },
                   {
@@ -72,7 +72,7 @@
                                       }
                                   ],
                       "images":  {
-                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/music.svg"
+                                     "poster":  "icons/clock.svg"
                                  }
                   },
                   {
@@ -96,7 +96,7 @@
                                       }
                                   ],
                       "images":  {
-                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/code.svg"
+                                     "poster":  "icons/code.svg"
                                  }
                   },
                   {
@@ -121,7 +121,7 @@
                                       }
                                   ],
                       "images":  {
-                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/book.svg"
+                                     "poster":  "icons/book.svg"
                                  }
                   }
               ]
