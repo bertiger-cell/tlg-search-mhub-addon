@@ -19,7 +19,10 @@
                                           "kind":  "website",
                                           "name":  "TLG Search in Telegram öffnen"
                                       }
-                                  ]
+                                  ],
+                      "images":  {
+                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/telegram.svg"
+                                 }
                   },
                   {
                       "id":  "inline-suche",
@@ -40,7 +43,10 @@
                                           "kind":  "website",
                                           "name":  "Bot für die Inline-Suche öffnen"
                                       }
-                                  ]
+                                  ],
+                      "images":  {
+                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/search.svg"
+                                 }
                   }
               ]
 }

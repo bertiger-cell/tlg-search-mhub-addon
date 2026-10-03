@@ -20,7 +20,10 @@
                                           "kind":  "website",
                                           "name":  "In TLG Search nach Filmen suchen"
                                       }
-                                  ]
+                                  ],
+                      "images":  {
+                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/film.svg"
+                                 }
                   },
                   {
                       "id":  "serien",
@@ -42,7 +45,10 @@
                                           "kind":  "website",
                                           "name":  "In TLG Search nach Serien suchen"
                                       }
-                                  ]
+                                  ],
+                      "images":  {
+                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/tv.svg"
+                                 }
                   },
                   {
                       "id":  "musik",
@@ -64,7 +70,10 @@
                                           "kind":  "website",
                                           "name":  "In TLG Search nach Musik suchen"
                                       }
-                                  ]
+                                  ],
+                      "images":  {
+                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/music.svg"
+                                 }
                   },
                   {
                       "id":  "software",
@@ -85,7 +94,10 @@
                                           "kind":  "website",
                                           "name":  "In TLG Search nach Software suchen"
                                       }
-                                  ]
+                                  ],
+                      "images":  {
+                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/code.svg"
+                                 }
                   },
                   {
                       "id":  "ebooks",
@@ -107,7 +119,10 @@
                                           "kind":  "website",
                                           "name":  "In TLG Search nach E-Books suchen"
                                       }
-                                  ]
+                                  ],
+                      "images":  {
+                                     "poster":  "https://tlg-search-mhub-addon.vercel.app/icons/book.svg"
+                                 }
                   }
               ]
 }
